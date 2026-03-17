@@ -67,5 +67,10 @@
         "subject": "MASTER_DATA",
         "data": "\"публикуй в GitHub\"",
         "time": 1773756114.2217827
+    },
+    {
+        "subject": "MASTER_DATA",
+        "data": "\"запусти себя в GitHub\"",
+        "time": 1773756299.4427686
     }
 ]
