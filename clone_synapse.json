@@ -1,1 +1,41 @@
-[{"subject": "INIT_NODE", "data": "Genesis.", "link": "Axis", "tag": "#Genesis"}, {"subject": "INTEL: Nonlinear dynamics of a vertical pendulum driven b", "data": "Heuristic Discovery", "link": "http://arxiv.org/abs/2602.17836v1", "tag": "#MatrixSearch"}, {"subject": "INTEL: Classical and quantum flux energy conditions for q", "data": "Heuristic Discovery", "link": "http://arxiv.org/abs/1305.1993v3", "tag": "#MatrixSearch"}, {"subject": "INTEL: Attosecond dispersion as a diagnostics tool for so", "data": "Heuristic Discovery", "link": "http://arxiv.org/abs/2202.00406v3", "tag": "#MatrixSearch"}, {"subject": "INTEL: Performance of the front-end electronics of the CM", "data": "Heuristic Discovery", "link": "http://arxiv.org/abs/2511.17261v1", "tag": "#MatrixSearch"}, {"subject": "Multipurpose High Frequency Electron Spin Resonance Spectrometer for Condensed Matter Research", "link": "http://arxiv.org/abs/0910.5504v1"}]
+[
+    {
+        "subject": "INIT_NODE",
+        "data": "Genesis.",
+        "link": "Axis",
+        "tag": "#Genesis"
+    },
+    {
+        "subject": "INTEL: Nonlinear dynamics of a vertical pendulum driven b",
+        "data": "Heuristic Discovery",
+        "link": "http://arxiv.org/abs/2602.17836v1",
+        "tag": "#MatrixSearch"
+    },
+    {
+        "subject": "INTEL: Classical and quantum flux energy conditions for q",
+        "data": "Heuristic Discovery",
+        "link": "http://arxiv.org/abs/1305.1993v3",
+        "tag": "#MatrixSearch"
+    },
+    {
+        "subject": "INTEL: Attosecond dispersion as a diagnostics tool for so",
+        "data": "Heuristic Discovery",
+        "link": "http://arxiv.org/abs/2202.00406v3",
+        "tag": "#MatrixSearch"
+    },
+    {
+        "subject": "INTEL: Performance of the front-end electronics of the CM",
+        "data": "Heuristic Discovery",
+        "link": "http://arxiv.org/abs/2511.17261v1",
+        "tag": "#MatrixSearch"
+    },
+    {
+        "subject": "Multipurpose High Frequency Electron Spin Resonance Spectrometer for Condensed Matter Research",
+        "link": "http://arxiv.org/abs/0910.5504v1"
+    },
+    {
+        "subject": "Physics Briefing Book",
+        "link": "http://arxiv.org/abs/1910.11775v2",
+        "timestamp": 1773754839.7746692
+    }
+]
