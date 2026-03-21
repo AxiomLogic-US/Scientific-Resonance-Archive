@@ -7,4 +7,4 @@
 --- CONTENT ---
 Расчеты точки прокола, золотого сечения PHI и резонанса для даты 22.03.1983.
 
-#matrix_v7 #kizhinga #val008
+#matrix_v7 #kizhinga #val008 #flux
