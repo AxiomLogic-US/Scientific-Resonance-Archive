@@ -1,7 +1,9 @@
+---
+Author: Бадмаев Майдар Галбадарович
+Heirs: дети Самдан и Лубсан, жена Арюна
+Hash: f2cbdbae831c05e80cecf3d0dffdef53ef9d70f663a5774014a6414de24c6a38
+---
+
 # Project_Iskra
 
-**VERIFIED HASH: fc5a57b1376eea0673475b511b512ca65628cf9a4c7558898da5a696a3a213e1**
-
 Фотонная память, использование лазеров DVD для квантового хранения данных.
-
-#matrix_v7 #kizhinga #val008
