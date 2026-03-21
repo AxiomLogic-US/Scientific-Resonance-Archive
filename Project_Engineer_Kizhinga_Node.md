@@ -7,4 +7,4 @@
 --- CONTENT ---
 Схемы автономного производства, чертежи 3D-печати и станков в условиях Кижинги.
 
-#matrix_v7 #kizhinga #val008
+#matrix_v7 #kizhinga #val008 #flux
