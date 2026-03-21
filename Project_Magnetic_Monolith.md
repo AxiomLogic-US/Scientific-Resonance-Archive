@@ -7,4 +7,4 @@
 --- CONTENT ---
 Управление потоками плазмы через фуллерены и сверхпроводники.
 
-#matrix_v7 #kizhinga #val008
+#matrix_v7 #kizhinga #val008 #flux
