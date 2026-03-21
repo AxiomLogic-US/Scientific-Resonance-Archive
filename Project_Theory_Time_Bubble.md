@@ -7,4 +7,4 @@
 --- CONTENT ---
 Концепция управления плотностью времени через дельту P_t. Математика прокола слоя.
 
-#matrix_v7 #kizhinga #val008
+#matrix_v7 #kizhinga #val008 #flux
