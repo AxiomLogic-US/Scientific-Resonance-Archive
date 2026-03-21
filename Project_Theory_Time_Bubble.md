@@ -1,7 +1,9 @@
+---
+Author: Бадмаев Майдар Галбадарович
+Heirs: дети Самдан и Лубсан, жена Арюна
+Hash: f2ad4334912329bd03a95c1902125bc7e20d10af17056a2cb503b36c21869af0
+---
+
 # Theory_Time_Bubble
 
-**VERIFIED HASH: 49ccffebd4bf56e2fb83b317adca461c7e92704f3c895d34e052cd6cc3f8f06d**
-
 Концепция управления плотностью времени через дельту P_t. Математика прокола слоя.
-
-#matrix_v7 #kizhinga #val008
